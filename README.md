@@ -1,2 +1,2 @@
-# ryoran_pen_light.github.io
-繚乱ビクトリーロード用のボタンプッシュ最適ツール
+# ryourann_pen_light
+繚乱ビクトリーロードのペンライトプッシュ回数の最適化
